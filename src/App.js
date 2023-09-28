@@ -8,9 +8,9 @@ function App() {
   return (
     <>
       <div className="App">
-      <h1>Weather Search Engine</h1>
+      <h1>Weather Search App</h1>
       <Search />
-      <a href='https://github.com/Mercy-mathitu/weather-search-app'>Weather-react Github</a>
+      <a href='https://github.com/Mercy-mathitu/weather-search-app' target='_blank' rel='noreferrer'>Weather Search App Github</a>
     </div>
     </>
   )
